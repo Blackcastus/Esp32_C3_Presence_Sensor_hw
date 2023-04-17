@@ -8,4 +8,4 @@
 6. Màn hình oled 128
 7. Output relay 220VAC
 8. Mạch thu RF 315Mhz
-
+9. Màn hình tft ili9341 2.2 inch 18pin
